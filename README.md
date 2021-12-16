@@ -6,7 +6,7 @@
 #### 1. Download the inference.ipynb
 #### 2. Run the inference.ipynb on the Google Colab
 
-### Pre-trained model downloadable link:
+### Model weights:
 https://drive.google.com/file/d/1xqyJUcDy9HLffHRD3gFUiFhuLFGRX05a/view?usp=sharing
 
 ## Experimental Results
