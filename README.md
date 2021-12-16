@@ -3,9 +3,8 @@
 
 ## Getting started
 
-#### 1. Download the pre-trained model from given google drive link
-#### 2. Put testing images, pre-trained model and inference.py in same folder
-#### 3. Run the inference.py and the ouput is a answer.json file
+#### 1. Download the inference.ipynb
+#### 2. Run the inference.ipynb on the Google Colab
 
 ### Pre-trained model downloadable link:
 https://drive.google.com/file/d/1xqyJUcDy9HLffHRD3gFUiFhuLFGRX05a/view?usp=sharing
