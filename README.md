@@ -9,3 +9,6 @@
 
 ### Pre-trained model downloadable link:
 https://drive.google.com/file/d/1xqyJUcDy9HLffHRD3gFUiFhuLFGRX05a/view?usp=sharing
+
+### Experimental Results
+# Epoch 5 (Only training the ROI head)
