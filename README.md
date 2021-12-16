@@ -11,5 +11,13 @@
 https://drive.google.com/file/d/1xqyJUcDy9HLffHRD3gFUiFhuLFGRX05a/view?usp=sharing
 
 ## Experimental Results
-### Epoch 5 (Only training the ROI head)
-VRDL_HW3/results/epoch5.png
+### ROI head: epoch 5, Layers: epoch 0
+![image](https://github.com/Mintair/VRDL_HW3/blob/main/results/epoch5.png)
+
+### ROI head: epoch 10, Layers: epoch 10
+![image](https://github.com/Mintair/VRDL_HW3/blob/main/results/epoch20.png)
+
+
+### ROI head: epoch 30, Layers: epoch 30
+![image](https://github.com/Mintair/VRDL_HW3/blob/main/results/epoch60.png)
+
